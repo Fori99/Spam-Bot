@@ -1,0 +1,229 @@
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveSwitch.TextControl.exe.config
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveSwitch.TextControl.exe
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveSwitch.TextControl.pdb
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\Interop.MSHTML.dll
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\TextControl.csproj.ResolveComReference.cache
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.ConfigureSMTPForm.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.Editor.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.EditorForm.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.LinkDialog.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.Properties.Resources.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.SearchDialog.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.SplashForm.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.TextInsertForm.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\TextControl.csproj.GenerateResource.cache
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\TextControl.csproj.CoreCompileInputs.cache
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.exe
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.pdb
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\TextControl.csprojAssemblyReference.cache
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.Form1.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\TextControl.csproj.CopyComplete
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.Form2.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl1.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl2.resources
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl3.resources
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveCharts.dll
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveCharts.pdb
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveCharts.xml
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\German\Desktop\TextControl\TextControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\German\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl4.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveSwitch.TextControl.exe.config
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveSwitch.TextControl.exe
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveSwitch.TextControl.pdb
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveCharts.dll
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveCharts.pdb
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveCharts.xml
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\TextControl.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\Interop.MSHTML.dll
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.ConfigureSMTPForm.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Editor.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.EditorForm.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Form1.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Form2.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.LinkDialog.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Properties.Resources.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.SearchDialog.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.SplashForm.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.TextInsertForm.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl1.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl2.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl3.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl4.resources
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.CopyComplete
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.exe
+C:\Users\User\Desktop\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.pdb
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\MySqlConnector.dll
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\MySqlConnector.xml
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\SpamBot-master\TextControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.dll
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.WinForms.dll
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.Wpf.dll
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\MySqlConnector.dll
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Buffers.dll
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Memory.dll
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.pdb
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.xml
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.WinForms.pdb
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.WinForms.xml
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.Wpf.pdb
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.Wpf.xml
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\MySqlConnector.xml
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Buffers.xml
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Memory.xml
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\Interop.MSHTML.dll
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.ResolveComReference.cache
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.ConfigureSMTPForm.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Editor.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.EditorForm.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Form1.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Form2.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.LinkDialog.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Properties.Resources.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.SearchDialog.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.SplashForm.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.TextInsertForm.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl1.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl2.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl3.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl4.resources
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.GenerateResource.cache
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.CoreCompileInputs.cache
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.CopyComplete
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.WinForms.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.Wpf.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\MySqlConnector.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Buffers.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Memory.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.pdb
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.xml
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.WinForms.pdb
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.WinForms.xml
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.Wpf.pdb
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\LiveCharts.Wpf.xml
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\MySqlConnector.xml
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Buffers.xml
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Memory.xml
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csprojAssemblyReference.cache
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\Interop.MSHTML.dll
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.ResolveComReference.cache
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.ConfigureSMTPForm.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Editor.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.EditorForm.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Form1.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Form2.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.LinkDialog.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Properties.Resources.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.SearchDialog.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.SplashForm.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.TextInsertForm.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl1.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl2.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl3.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl4.resources
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.GenerateResource.cache
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.CopyComplete
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csprojAssemblyReference.cache
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.CoreCompileInputs.cache
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.exe.config
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.exe.manifest
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.application
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.exe
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.pdb
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.TrustInfo.xml
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.exe.manifest
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.application
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.exe
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.pdb
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.exe.config
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.exe.manifest
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.application
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.exe
+E:\Projekte\SpamBot-master\TextControl\bin\Debug\Thunder Spam.pdb
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.TrustInfo.xml
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.exe.manifest
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.application
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.exe
+E:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.pdb
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\HtmlAgilityPack.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.AWT.WinForms.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Beans.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Charsets.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Corba.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Core.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Localedata.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Management.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Media.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Misc.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Naming.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Remoting.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Security.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Text.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Tools.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.Util.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.XML.API.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.Runtime.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\IKVM.Runtime.JNI.dll
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\HtmlAgilityPack.pdb
+G:\Projekte\SpamBot-master\TextControl\bin\Debug\HtmlAgilityPack.xml
+G:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.templateUserControl1.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\Interop.MSHTML.dll
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.ResolveComReference.cache
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.ConfigureSMTPForm.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Editor.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.EditorForm.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Form1.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Form2.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.LinkDialog.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.Properties.Resources.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.SearchDialog.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.SplashForm.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.templateUserControl1.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.TextInsertForm.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl1.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl2.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl3.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\LiveSwitch.TextControl.UserControl4.resources
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.GenerateResource.cache
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\TextControl.csproj.CoreCompileInputs.cache
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.TrustInfo.xml
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.exe
+F:\Projekte\SpamBot-master\TextControl\obj\Debug\Thunder Spam.pdb
